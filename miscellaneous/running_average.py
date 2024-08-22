@@ -1,11 +1,10 @@
 #find running average from a dynamic list of numbers
 
 def mean():
-    
     numbers = []
     def wrapper(number):
-        
         numbers.append(number)
+        
         return sum(numbers) / len(numbers)
     
     return wrapper
