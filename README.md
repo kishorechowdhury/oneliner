@@ -1,1 +1,1 @@
-This is a repo for a quick Python one liners which come in handy, sometimes.
+Find a number of one python liners which come in handy, sometimes.
